@@ -1,0 +1,7 @@
+{
+  "name": "markdown-prism-revealjs-decktape-printing",
+  "version": "1.0.0",
+  "dependencies": {
+    "decktape": "https://github.com/astefanutti/decktape.git#07eb1de0d487039880940ecd0829702c5caaf5f3"
+  }
+}
