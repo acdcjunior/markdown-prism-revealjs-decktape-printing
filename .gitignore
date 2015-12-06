@@ -4,6 +4,9 @@ bower_components/
 # PhantomJS binary
 phantomjs/phantomjs.exe
 
+# Usual output filename
+presentation.pdf
+
 # IDE
 .idea/
 *.iml
