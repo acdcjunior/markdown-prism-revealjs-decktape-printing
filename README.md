@@ -4,6 +4,7 @@ Bunch of stuff so I can be able to use decktape to generate a PDF from my presen
 
 Just edit the `print-presentation.sh` script and run it:
 
+    bower install
     ./print-presentation.sh
 
 The PDF should be generated.
